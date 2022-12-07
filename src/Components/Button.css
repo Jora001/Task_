@@ -1,0 +1,23 @@
+.button {
+    opacity: 0%;
+    width: 550px; 
+    border: red;
+}
+.mb-3 input {
+    width: 500px;
+}
+.form__submit-btn {
+    width: 500px;
+    height: 60px;
+    border-radius:15px; 
+}
+.form_0 Button{
+    
+    border-color: black;
+    border-radius: 5px;
+    background-color: black; 
+    color:rgb(255, 255, 255);
+    
+
+
+}
